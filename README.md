@@ -125,7 +125,11 @@ You can also check linter errors by running these commands:
 - Twitter: [@twitterhandle](https://twitter.com/NelofarZabi)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/nelofar-zabi-1a1066213)
 
+👤 **Md Mahadi Hasan Rifat**
 
+- GitHub: [@Rifat8080](https://github.com/Rifat8080)
+- Twitter: [@mdmahadirifat98](https://twitter.com/mdmahadirifat98)
+- LinkedIn: [md-mahadi-hasan-rifat-8b7851265](https://www.linkedin.com/in/md-mahadi-hasan-rifat-8b7851265/)
 
 <!-- FUTURE FEATURES -->
 
